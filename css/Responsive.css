@@ -1,0 +1,295 @@
+@media (max-width: 1399px){
+	header{
+		background-size: 650px !important;
+	}
+.about-section{
+	background-size: 650px !important;
+	}
+     .question-section h1 {
+    font-size: 25px !important;
+}
+@media (max-width: 1199px){
+	header{
+		background-size: 50%;
+	}
+	header h1{
+		font-size: 35px;
+	}
+}
+header p {
+	font-size: 11px;
+}
+.feature.card {
+    width: 219px;
+    height: 250px;
+}
+.about-section h1 {
+    font-size: 30px !important;
+    }
+    .about-section a {
+    padding: 12px 15px !important;
+}
+.question-section ul li {
+    margin-bottom: 30px;
+    line-height: 1.8;
+    font-size: 13px !important;
+    font-weight: 670;
+    }
+
+    .question-section h1 {
+    font-size: 22px !important;
+    font-weight: 670;
+    line-height: 1.4;
+}
+.question-section ul li {
+    margin-bottom: 27px;
+    }
+    .question-section ul li {
+    margin-bottom: 22px;
+    line-height: 1.6;
+    font-size: 15px !important;
+    font-weight: 650;
+    }
+
+@media (max-width: 991px){
+header {
+    background-size: 450px!important;
+}
+	header h1 {
+    font-size: 30px;
+}
+header p {
+	font-size: 10px;
+}
+header .py-3 {
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+header .py-2 {
+    padding: 10px 15px !important;
+    }
+    .btn{
+    	font-size: 15px;
+
+}
+a.btn {
+    display: inline-block; 
+    align-items: center;
+}
+.feature {
+    padding: 6px 15px;
+    }
+
+    .feature h1 {
+    line-height: 1.5;
+    font-size: 18px;}
+.feature p {
+    line-height: 1.5;
+    font-weight: 450;
+    font-size: 13px;
+}
+.feature.card {
+    width: 156px;
+    height: 219px;
+}
+.features-section a  {
+    align-items: center;    
+    display:    inline-flex;
+    }
+    .feature a i {
+    color: #47b2e4;
+    font-size: 22px;
+    margin-left: 17px;
+}
+.about-section{
+	background-size: 500px !important;
+}
+.about-section a {
+    margin-top: 12px!important;
+    padding: 12px 10px !important;
+}
+   .question-section h1 {
+    font-size: 20px !important;
+}
+.about-section p {
+    line-height: 2.7;
+    font-size: 11px;
+    font-weight: 450;
+    }
+.question-section h1 {
+    font-size: 21px;
+}
+.question-section ul li {
+    margin-bottom: 22px;
+    line-height: 1.6;
+    font-size: 11px;
+    font-weight: 650;
+    }
+
+    .question-section h1 {
+    font-size: 20px;
+    font-weight: 650;
+    /* line-height: 1.6; */
+    line-height: 1.4;
+}
+.question-section ul li {
+    margin-bottom: 21px;
+    }
+    .revolion-section p {
+    margin-bottom: 20px !important;
+    font-size: 15px;
+    line-height: 1.7;
+}
+a.btn {
+    display: inline-flex;
+    align-items: center;
+}
+
+.subscribe-section .heading h1 {
+    margin-top: 20px;
+}
+.subscribe-section .heading h1 {
+    font-size: 27px;
+    }
+   .subscribe-section .heading p {
+    font-size: 14px;
+}
+.social-link li a {
+    color: white;
+    height: 30px;
+    width: 30px;
+}
+.footer-bottom h6 {
+    font-size: 15px;
+}
+@media (max-width: 767px){
+header{
+		background-image: url();
+}
+header h1 {
+    font-size: 38px;
+}
+header p {
+    font-size: 13px;
+}
+.feature.card {
+    width: 200px;
+    height: 230px;
+}
+.feature > i {
+    margin-top: 24px;
+}
+
+.feature p {
+    font-size: 13px !important;
+    padding: 0px 20px !important;
+}
+    .feature.feature-padding{
+      padding: 0 20px;
+      margin-top: 50px !important;
+}
+
+.feature h2 {
+    font-size: 22px;
+    padding-left: 10px;
+}
+.feature h1 {
+    margin: 18px 0;
+    font-size: 30px;
+    text-align: center;
+}
+.feature > i {
+    color: #47b2e4;
+    font-size: 40px;
+}
+.feature-padding{
+	text-align: center;
+}
+.feature.feature-padding p {
+    margin-top: 18px !important;
+    font-size: 13px;
+    text-align: center;
+}
+.feature .btn{
+	font-size: 12px;
+	text-align: 	center;
+}
+.features-section a  {
+    align-items: center;    
+    display:    inline-flex;
+    }
+    .feature a i {
+    color: #47b2e4;
+    font-size: 22px;
+    margin-left: 17px;
+}
+.feature .btn i{
+	font-size: 15px;
+	text-align: 	center;
+}
+.about-section{
+	background-image: url();
+	
+}
+.content{
+	text-align: center;
+}
+.question-section{
+	text-align: center;
+}
+.question-section ul li{
+	margin-top: 40px;
+    margin-bottom: 22px;
+    line-height: 1.4;
+    font-size: 15px !important;
+    font-weight: 650;
+    }
+ .question-section h1 {
+    font-size: 25px;
+    font-weight: 650;
+    /* line-height: 1.6; */
+    line-height: 1.6;
+}
+.pricing:hover.price-heading{
+
+padding-top: 60px;
+}
+.footer-bottom h6 {
+    font-size: 15px;
+}
+@media (max-width: 575px){
+	header{
+		background-image: url();
+	}
+    header h1 {
+    font-size: 38px;
+}
+header p {
+    font-size: 13px;
+}
+a.btn {
+    display: inline-flex; 
+    align-items: center;
+}
+}
+.question-section h1 {
+    font-size: 30px;
+    font-weight: 650;
+    /* line-height: 1.6; */
+    line-height: 1.6;
+}
+.logo .p-5 {
+    padding: 2rem!important;
+}
+.features-section{
+}
+.feature p{
+font-size: 10px;
+    padding: 0 41px;
+}
+.feature{
+    margin-bottom: 20px;
+}
+.about-section p {
+    line-height: 1.5;
+}
